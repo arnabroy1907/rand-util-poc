@@ -17,6 +17,7 @@ jobs:
         with:
           node-version: 16
           registry-url: https://registry.npmjs.org
+      - name: build lib
         run: npm run build
   release:
     name: 🚀 Publsih
