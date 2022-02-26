@@ -1,6 +1,6 @@
 {
     "name": "@arnabroydevx/rand-util-poc",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "description": "Just a POC package for testing",
     "types": "lib/index.d.ts",
     "main": "lib/bin/index.js",
