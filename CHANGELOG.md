@@ -2,6 +2,11 @@
 
 ## Versions
 
+### 0.2.0 (Feb 26, 2022)
+
+- exported logger
+- updated logs in code
+
 ### 0.1.4 (Feb 26, 2022)
 
 - Gitlab worklow CI/CD security fix
