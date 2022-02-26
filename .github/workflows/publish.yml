@@ -19,8 +19,6 @@ jobs:
           registry-url: https://registry.npmjs.org
       - name: build lib
         run: npm run build
-      - name: post build directories
-        run: ls -a
       - name: 🚀 publish
         run: npm publish
         env:
